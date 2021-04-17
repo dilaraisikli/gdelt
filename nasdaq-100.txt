@@ -1,0 +1,100 @@
+Apple Inc.
+Adobe Inc.
+Analog Devices, Inc.
+Automatic Data Processing, Inc.
+Autodesk, Inc.
+Akamai Technologies, Inc.
+Alexion Pharmaceuticals, Inc.
+Alphabet
+Applied Materials, Inc.
+Amgen Inc.
+Amazon.com, Inc.
+Activision Blizzard, Inc
+Avago Technologies Limited
+Bed Bath & Beyond Inc.
+Baidu, Inc.
+Biogen Idec Inc.
+BioMarin Pharmaceutical
+Broadcom Corporation
+CA Inc.
+Celgene Corporation
+Cerner Corporation
+Check Point Software Technologies Ltd.
+C. H. Robinson Worldwide, Inc
+Charter Communications, Inc.
+Comcast Corporation
+Costco Wholesale Corporation
+Cisco Systems, Inc.
+Cognizant Technology Solutions Corporation
+Citrix Systems, Inc.
+Discovery Communications, Inc.
+Dollar Tree, Inc.
+eBay Inc.
+Equinix, Inc.
+Express Scripts Holding Company
+Expeditors International of Washington, Inc.
+Expedia Inc.
+Fastenal Company
+Facebook, Inc.
+F5 Networks, Inc.
+Fiserv, Inc.
+Fossil Group, Inc.
+Twenty-First Century Fox, Inc.
+Gilead Sciences, Inc.
+Green Mountain Coffee Roasters, Inc.
+Garmin Ltd.
+Henry Schein, Inc.
+Incyte
+Intel Corporation
+Intuit Inc.
+Intuitive Surgical, Inc.
+JD.com
+KLA-Tencor Corporation
+Kraft Heinz Company
+Liberty Global plc
+Liberty Interactive Corporation
+Linear Technology Corporation
+Liberty Media Corporation
+Marriott International
+Mattel, Inc.
+Microchip Technology Incorporated
+Mondelez International, Inc.
+Monster Beverage Corporation
+Microsoft Corporation
+Micron Technology, Inc.
+Maxim Integrated Products, Inc.
+Mylan Inc.
+Netflix, Inc.
+NetApp, Inc.
+Nuance Communications, Inc.
+NVIDIA Corporation
+O'Reilly Automotive, Inc.
+Paychex, Inc.
+PACCAR Inc.
+QUALCOMM Incorporated
+Regeneron Pharmaceuticals, Inc.
+Ross Stores, Inc.
+SBA Communications Corporation
+Starbucks Corporation
+Sears Holdings Corporation
+Sigma-Aldrich Corporation
+Sirius XM Holdings Inc.
+SanDisk Corporation
+Staples, Inc.
+Stericycle, Inc.
+Seagate Technology
+Symantec Corporation
+Tesla Motors, Inc.
+Texas Instruments Incorporated
+The Priceline Group, Inc.
+Viacom, Inc.
+VimpelCom Ltd.
+Vodafone Group Plc
+Verisk Analytics, Inc.
+Vertex Pharmaceuticals Incorporated
+Western Digital Corporation
+Whole Foods Market, Inc.
+Wynn Resorts, Limited
+Xilinx, Inc.
+DENTSPLY International Inc.
+Yahoo! Inc.
